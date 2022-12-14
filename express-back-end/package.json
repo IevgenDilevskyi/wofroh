@@ -15,7 +15,7 @@
     "body-parser": "^1.18.3",
     "cookie-session": "^1.4.0",
     "dotenv": "^9.0.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "per-env": "^1.0.2",
     "pg": "^8.6.0",
     "pg-native": "^3.0.0"
